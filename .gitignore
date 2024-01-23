@@ -13,5 +13,7 @@ examples/oven/oven
 examples/temperature/temperature
 
 .vscode
+.idea
 .history
 go.work
+

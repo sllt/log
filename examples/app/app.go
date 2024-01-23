@@ -5,7 +5,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/charmbracelet/log"
+	"github.com/sllt/log"
 )
 
 type cup int

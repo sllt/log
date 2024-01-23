@@ -5,7 +5,7 @@ import (
 	"time"
 
 	"github.com/charmbracelet/lipgloss"
-	"github.com/charmbracelet/log"
+	"github.com/sllt/log"
 )
 
 func main() {

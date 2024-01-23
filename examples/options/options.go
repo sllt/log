@@ -4,7 +4,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/charmbracelet/log"
+	"github.com/sllt/log"
 )
 
 func main() {
